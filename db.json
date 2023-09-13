@@ -1,0 +1,256 @@
+{
+    "admin": [
+      {
+        "email": "mimm4u@gmail.com",
+        "password": "235@youngone",
+        "id": 2
+      }
+    ],
+    "user": [
+      {
+        "id": 1,
+        "u_name": "prasunbd6",
+        "u_email": "prasunbd6@gmail.com",
+        "u_password": "prasunbd6",
+        "u_mobile": "01711194288"
+      }
+    ],
+    "cart": [
+      {
+        "id": 1,
+        "user_id": 1
+      }
+    ],
+    "cart_list": [
+      {
+        "menu_id": 13,
+        "quantity": "23",
+        "amount": 1610,
+        "id": 1
+      },
+      {
+        "menu_id": 21,
+        "quantity": "3",
+        "amount": 99,
+        "id": 2
+      }
+    ],
+    "category": [
+      {
+        "id": 1,
+        "name": "Breakfast"
+      },
+      {
+        "name": "Juice",
+        "id": 2
+      },
+      {
+        "name": "Lunch",
+        "id": 3
+      },
+      {
+        "id": 4,
+        "name": "Dinner"
+      },
+      {
+        "id": 5,
+        "name": "Snacks"
+      }
+    ],
+    "description": [
+      {
+        "details": "Available from 2 PM to 4 PM",
+        "id": 1
+      },
+      {
+        "details": "Available from 10 AM to 7 PM",
+        "id": 2
+      },
+      {
+        "details": "Available from 8:00 PM to 11:00 PM",
+        "id": 3
+      },
+      {
+        "details": "Available from 1:00 PM to 3:00 PM",
+        "id": 4
+      }
+    ],
+    "menu": [
+      {
+        "id": 22,
+        "title": "Ash",
+        "cat_id": 5,
+        "price": 20,
+        "img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "des_id": 2
+      },
+      {
+        "id": 21,
+        "title": "Robin Stickel",
+        "cat_id": 5,
+        "price": 33,
+        "img": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 2
+      },
+      {
+        "id": 20,
+        "title": " Julian Jagtenberg",
+        "cat_id": 1,
+        "price": 234,
+        "img": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 2
+      },
+      {
+        "id": 19,
+        "title": " Emrah Tolu",
+        "cat_id": 1,
+        "price": 170,
+        "img": "https://images.pexels.com/photos/2662875/pexels-photo-2662875.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 2
+      },
+      {
+        "id": 18,
+        "title": "Life Of Pix",
+        "cat_id": 1,
+        "price": 405,
+        "img": "https://images.pexels.com/photos/101533/pexels-photo-101533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 2
+      },
+      {
+        "id": 17,
+        "title": "Jane Doan",
+        "cat_id": 1,
+        "price": 36,
+        "img": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 2
+      },
+      {
+        "id": 16,
+        "title": "PhotoMIX Company",
+        "cat_id": 2,
+        "price": 30,
+        "img": "https://images.pexels.com/photos/96974/pexels-photo-96974.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 2
+      },
+      {
+        "id": 15,
+        "title": "ROMAN ODINTSOV",
+        "cat_id": 2,
+        "price": 30,
+        "img": "https://images.pexels.com/photos/4955257/pexels-photo-4955257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 2
+      },
+      {
+        "id": 14,
+        "title": "iStock",
+        "cat_id": 2,
+        "price": 40,
+        "img": "https://media.istockphoto.com/id/641975492/photo/three-fruits-and-vegetables-detox-drinks.jpg?s=1024x1024&w=is&k=20&c=RBHmlO1e2yOpsAPLf6JVNCXAIE1gEq9U6wHfapNI4_k=",
+        "des_id": 2
+      },
+      {
+        "id": 13,
+        "title": "fresh fruits and vegetables juices",
+        "cat_id": 2,
+        "price": 70,
+        "img": "https://media.istockphoto.com/id/1253099922/photo/assortment-of-fresh-fruits-and-vegetables-juices-in-rainbow-colors.jpg?s=2048x2048&w=is&k=20&c=pGEuZ97yWrGP1sUFpke4rJH6_9Wj98PwilWQj6ESyS4=",
+        "des_id": 2
+      },
+      {
+        "id": 12,
+        "title": " Polina Tankilevitch",
+        "cat_id": 2,
+        "price": 45,
+        "img": "https://images.pexels.com/photos/4443445/pexels-photo-4443445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 2
+      },
+      {
+        "id": 11,
+        "title": "Ella Olsson",
+        "cat_id": 3,
+        "price": 170,
+        "img": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 4
+      },
+      {
+        "id": 10,
+        "title": "fauxels",
+        "cat_id": 3,
+        "price": 200,
+        "img": "https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 4
+      },
+      {
+        "id": 9,
+        "title": "Lisa Fotios",
+        "cat_id": 3,
+        "price": 210,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 4
+      },
+      {
+        "id": 8,
+        "title": " Ella Olsson",
+        "cat_id": 3,
+        "price": 220,
+        "img": "https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 4
+      },
+      {
+        "id": 7,
+        "title": "Chan Walrus",
+        "cat_id": 3,
+        "price": 220,
+        "img": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 4
+      },
+      {
+        "id": 6,
+        "title": "Pixabay Pixabay",
+        "cat_id": 4,
+        "price": 300,
+        "img": "https://images.pexels.com/photos/262882/pexels-photo-262882.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "des_id": 3
+      },
+      {
+        "id": 5,
+        "title": " Adrienn",
+        "cat_id": 4,
+        "price": 300,
+        "img": "https://images.pexels.com/photos/1537635/pexels-photo-1537635.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "des_id": 3
+      },
+      {
+        "id": 4,
+        "title": "Lisa Fotios",
+        "cat_id": 4,
+        "price": 170,
+        "img": "https://images.pexels.com/photos/1655329/pexels-photo-1655329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 3
+      },
+      {
+        "id": 3,
+        "title": "Pixabay",
+        "cat_id": 4,
+        "price": 120,
+        "img": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 3
+      },
+      {
+        "id": 2,
+        "title": "Janko Ferlic",
+        "cat_id": 4,
+        "price": 160,
+        "img": "https://images.pexels.com/photos/590477/pexels-photo-590477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 3
+      },
+      {
+        "id": 1,
+        "title": "Naim Benjelloun",
+        "cat_id": 2,
+        "price": 70,
+        "img": "https://images.pexels.com/photos/2110923/pexels-photo-2110923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "des_id": 2
+      }
+    ]
+  }
