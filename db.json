@@ -6,13 +6,22 @@
         "id": 2
       }
     ],
+    "order_details":[
+      {
+        "id":1,
+        "cart_id":1,
+        "total_tk":150,
+        "total_usd":20,
+        "token_bank":"abf25lq2ee1n"
+      }
+    ],
     "user": [
       {
         "id": 1,
-        "u_name": "prasunbd6",
-        "u_email": "prasunbd6@gmail.com",
-        "u_password": "prasunbd6",
-        "u_mobile": "01711194288"
+        "username": "prasunbd6",
+        "email": "prasunbd6@gmail.com",
+        "password": "prasunbd6",
+        "mobile": "01711194288"
       }
     ],
     "cart": [
