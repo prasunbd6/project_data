@@ -16,6 +16,14 @@
         "password": "prasunbd6",
         "mobile": "01711194288",
 		"role":1
+      },
+	  {
+        "id": 2,
+        "username": "ami",
+        "email": "ami@gmail.com",
+        "password": "235@youngone",
+        "mobile": "01521358131",
+		"role":2
       }
     ],
 	"role":[
