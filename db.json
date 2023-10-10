@@ -1,11 +1,4 @@
 {
-    "admin": [
-      {
-        "email": "mimm4u@gmail.com",
-        "password": "235@youngone",
-        "id": 2
-      }
-    ],
     "order_details":[
       {
         "id":1,
@@ -21,9 +14,15 @@
         "username": "prasunbd6",
         "email": "prasunbd6@gmail.com",
         "password": "prasunbd6",
-        "mobile": "01711194288"
+        "mobile": "01711194288",
+		"role":1
       }
     ],
+	"role":[
+	{"id":1,"rolename":"admin"},
+	{"id":2,"rolename":"client"}
+	],
+	
     "cart": [
       {
         "id": 1,
