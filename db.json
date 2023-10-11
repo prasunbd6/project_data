@@ -13,9 +13,10 @@
         "id": 1,
         "username": "prasunbd6",
         "email": "prasunbd6@gmail.com",
-        "password": "prasunbd6",
+        "password": "235@youngone",
         "mobile": "01711194288",
-		"role":1
+		"role":1,
+		"secretkey":007
       },
 	  {
         "id": 2,
