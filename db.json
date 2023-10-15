@@ -25,7 +25,16 @@
         "password": "235@youngone",
         "mobile": "01521358131",
 		"role":2
-      }
+      },
+	  
+	   {
+    "username": "test",
+    "email": "test@yts.com",
+    "password": "235@youngone",
+    "mobile": "01711194289",
+    "role": 2,
+    "id": 3
+  }
     ],
 	"roleaccess":[
 	{"id":1,"rolename":"admin"},
