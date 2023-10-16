@@ -38,7 +38,8 @@
     ],
 	"roleaccess":[
 	{"id":1,"rolename":"admin"},
-	{"id":2,"rolename":"client"}
+	{"id":2,"rolename":"client"},
+	{"id":3,"rolename":"registered"}
 	],
 	
     "cart": [
