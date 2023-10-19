@@ -15,8 +15,7 @@
         "email": "prasunbd6@gmail.com",
         "password": "235@youngone",
         "mobile": "01711194288",
-		"role":1,
-		"secretkey":"007"
+		"role":1
       },
 	  {
         "id": 2,
@@ -39,8 +38,7 @@
 	"roleaccess":[
 	{"id":1,"rolename":"admin"},
 	{"id":2,"rolename":"client"},
-	{"id":3,"rolename":"registered"},
-	{"id":4,"rolename":"public"}
+	{"id":3,"rolename":"public"}
 	],
 	
     "cart": [
